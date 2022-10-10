@@ -1,4 +1,4 @@
-# News Distributed System
+# News Distributed System - REST API
 
 A news system which informs verified and fake news separately. The system includes mobile application, website, and REST API. Application and website interact with a database via the middleware which is the REST API.
 
