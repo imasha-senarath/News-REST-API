@@ -8,9 +8,4 @@ Mobile Application - [https://github.com/imasha-senarath/News-Application](https
 
 Personal Website - [https://www.imasha.online/](https://www.imasha.online/)
 
-## Screenshots
-<img src="screenshots/0.jpg" width="100%">
-<img src="screenshots/1.jpg" width="100%">
-<img src="screenshots/2.jpg" width="100%">
-
 
